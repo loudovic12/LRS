@@ -15,7 +15,7 @@ Frameworks :
 > - Bootstrap 3.2
 
 Envoie d'email : 
-> - [SendMail]
+> - SendMail
 
 ## Gestion du projet
 
