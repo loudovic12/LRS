@@ -31,5 +31,5 @@ Projet effectué du 9 septembre au 20 novembre 2019.
 - [Documentation Administrateur](https://github.com/loudovic12/LRS/blob/master/documentation/Documentation%20lrs%20d%C3%A9veloppeur.pdf)
 
 ## Contribution
-* **Louis Moulin** - *Travail Initial* - [loudovic12](https://github.com/loudovic12)
-* **Margaux Hebert** - *Travail Initial* - [Margaux83](https://github.com/Margaux83)
+* **Loudovic REX-HARRISON** - *Travail Initial* - [loudovic12](https://github.com/loudovic12)
+* **Margaux HEBERT** - *Travail Initial* - [Margaux83](https://github.com/Margaux83)
